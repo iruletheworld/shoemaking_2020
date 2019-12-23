@@ -78,6 +78,8 @@ Traditional Chinese files are in the "TC" folder.
 
 Simplified Chinese files are in the "SC" folder.
 
+The copyright for the original criteria in English belongs to Jesper Ingevaldsson.
+
 ## Licence
 
 Creative Common Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
