@@ -1,0 +1,56 @@
+\documentclass[10pt, a4paper]{article}
+
+% 圖包
+\usepackage{graphicx}
+
+% 字體設置包
+\usepackage{fontspec}
+
+% 疊字包
+\usepackage{stackengine}
+
+% 中文包
+\usepackage{xeCJK}
+% 中文主字族爲思源黑體
+\setCJKmainfont[ItalicFont=楷体]{Source Han Sans CN}
+% 英文主字族爲 Open Sans
+\setmainfont{Open Sans}
+\newcommand{\tnr}{\fontspec{Times New Roman}}
+
+
+% 顏色包
+\usepackage{xcolor}
+
+% 平行列包，用於中英對照
+\usepackage{paracol}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+
+% 超鏈接包
+\usepackage{hyperref}
+
+% 邊距設置
+\usepackage[a4paper,right=1.5cm, left=1cm,bottom=1.5cm,top=1cm]{geometry}
+
+% 取消頁碼
+% \pagenumbering{gobble}
+
+\usepackage{caption}
+
+% 尾註
+% https://liam.page/2016/10/14/LaTeX-endnotes/
+\usepackage{endnotes}
+\makeatletter
+\def\enoteheading{\subsection*{Notes / 注释
+  \@mkboth{\notesname}{\notesname}}%
+  \mbox{}\par\vskip-2.3\baselineskip\noindent\rule{.5\textwidth}{0.4pt}\par\vskip\baselineskip}
+\makeatother
+
+% 加粗所有文字
+% \renewcommand{\seriesdefault}{\bfdefault}
+
+\begin{document}
+
+    \input{./shoemaking_2020_sc}
+
+\end{document}
