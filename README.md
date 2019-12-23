@@ -12,6 +12,8 @@
 
 编译需要有字体支持。请参照源文件的导言部分。
 
+英文版权为Jesper Ingevaldsson所有。
+
 ## 分享协议
 
 CC BY-ND 4.0
@@ -43,6 +45,8 @@ https://creativecommons.org/licenses/by-nd/4.0/
 簡中在“SC”文件夾中。
 
 編譯需要有字體支持。請參照源文件的導言部分。
+
+英文版權爲Jesper Ingevaldsson所有。
 
 ## 分享協議
 
