@@ -14,6 +14,10 @@
 
 英文版权为Jesper Ingevaldsson所有。
 
+![sc_p01](./sc/shoemaking_2020-1.png "简体中文第一页")
+![sc_p02](./sc/shoemaking_2020-2.png "简体中文第二页")
+![sc_p03](./sc/shoemaking_2020-3.png "简体中文第三页")
+
 ## 分享协议
 
 CC BY-ND 4.0
@@ -47,6 +51,10 @@ https://creativecommons.org/licenses/by-nd/4.0/
 編譯需要有字體支持。請參照源文件的導言部分。
 
 英文版權爲Jesper Ingevaldsson所有。
+
+![tc_p01](./tc/shoemaking_2020-1.png "繁體中文第一頁")
+![tc_p02](./tc/shoemaking_2020-2.png "繁體中文第二頁")
+![tc_p03](./tc/shoemaking_2020-3.png "繁體中文第三頁")
 
 ## 分享協議
 

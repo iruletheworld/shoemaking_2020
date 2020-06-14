@@ -1,0 +1,1 @@
+pdftocairo -png "shoemaking_2020.pdf"
