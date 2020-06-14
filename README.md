@@ -48,6 +48,12 @@ https://creativecommons.org/licenses/by-nd/4.0/
 
 英文版權爲Jesper Ingevaldsson所有。
 
+<object data="./tc/shoemaking_2020.pdf" type="application/pdf" width="100%">
+    <embed src="./tc/shoemaking_2020.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./tc/shoemaking_2020.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ## 分享協議
 
 CC BY-ND 4.0
